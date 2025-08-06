@@ -1,28 +1,206 @@
-<h1 align="center">Hi 👋, I'm Shreyansh Tripathi</h1>
-<h3 align="center">I'm a CSE Student from India</h3>
 
-<p align="left"> <img src="https://miro.medium.com/v2/resize:fit:1400/1*4fNBO_UDYEVxM0E5T2FyJQ.gif" alt="shreyansh-dev369" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreyansh-dev369" alt="shreyansh-dev369" /></a> </p>
-
-- 🌱 I’m currently learning **Full Stack With AI/ML**
-
-- 💬 Ask me about **What are the projects that you made,& You currently working on it..?**
-
-- 📫 How to reach me **dev.shreyansh369@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shreyansh-tripathi-6a4097342?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shreyansh-tripathi-6a4097342?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/Shreyansh-Dev369"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height=30></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
+## ✨ Welcome to my digital playground!
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyansh-dev369&show_icons=true&locale=en&layout=compact" alt="shreyansh-dev369" /></p>
+I craft digital experiences that blend creativity with functionality. My code isn't just functional—it tells a story, solves problems, and creates memorable user experiences. When I'm not immersed in code, you'll find me exploring new technologies, contributing to open-source, or brainstorming the next big idea.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyansh-dev369&show_icons=true&locale=en" alt="shreyansh-dev369" /></p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=500&lines=Building+the+web+of+tomorrow%2C+today;Turning+coffee+into+code+since+2015;Crafting+digital+experiences+with+passion;Where+creativity+meets+functionality" width="70%" />
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyansh-dev369&" alt="shreyansh-dev369" /></p>
+## 🚀 Current Focus
 
-#ShreyanshReadme
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+        <br>React Apps
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+        <br>Node.js
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="65" height="65" />
+        <br>Kubernetes
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+        <br>AWS
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+        <br>Open Source
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 💻 Technical Expertise
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <div style="display: flex; flex-direction: column;">
+        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+        <p>JavaScript</p>
+      </div>
+    </td>
+    <td align="center" width="96">
+      <div style="display: flex; flex-direction: column;">
+        <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+        <p>TypeScript</p>
+      </div>
+    </td>
+    <td align="center" width="96">
+      <div style="display: flex; flex-direction: column;">
+        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+        <p>React</p>
+      </div>
+    </td>
+    <td align="center" width="96">
+      <div style="display: flex; flex-direction: column;">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+        <p>Next.js</p>
+      </div>
+    </td>
+    <td align="center" width="96">
+      <div style="display: flex; flex-direction: column;">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+        <p>Node.js</p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <div style="display: flex; flex-direction: column;">
+        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+        <p>Python</p>
+      </div>
+    </td>
+    <td align="center" width="96">
+      <div style="display: flex; flex-direction: column;">
+        <img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" />
+        <p>Django</p>
+      </div>
+    </td>
+    <td align="center" width="96">
+      <div style="display: flex; flex-direction: column;">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+        <p>MongoDB</p>
+      </div>
+    </td>
+    <td align="center" width="96">
+      <div style="display: flex; flex-direction: column;">
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+        <p>PostgreSQL</p>
+      </div>
+    </td>
+    <td align="center" width="96">
+      <div style="display: flex; flex-direction: column;">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+        <p>Tailwind</p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <div style="display: flex; flex-direction: column;">
+        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+        <p>Docker</p>
+      </div>
+    </td>
+    <td align="center" width="96">
+      <div style="display: flex; flex-direction: column;">
+        <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+        <p>AWS</p>
+      </div>
+    </td>
+    <td align="center" width="96">
+      <div style="display: flex; flex-direction: column;">
+        <img src="https://skillicons.dev/icons?i=k8s" width="48" height="48" alt="Kubernetes" />
+        <p>Kubernetes</p>
+      </div>
+    </td>
+    <td align="center" width="96">
+      <div style="display: flex; flex-direction: column;">
+        <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" />
+        <p>GraphQL</p>
+      </div>
+    </td>
+    <td align="center" width="96">
+      <div style="display: flex; flex-direction: column;">
+        <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+        <p>Figma</p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+## 🌱 Currently Learning
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white" alt="Serverless">
+  <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL">
+  <img src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=white" alt="Apollo">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+</div>
+
+## 🌟 What I Do
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <h3>🖥️ Frontend Mastery</h3>
+        <p>Creating intuitive and responsive user interfaces that captivate and engage. I bring designs to life with smooth animations and pixel-perfect implementations.</p>
+      </td>
+      <td width="50%" align="center">
+        <h3>⚙️ Backend Engineering</h3>
+        <p>Building robust, scalable API architectures and server-side solutions that power seamless experiences and handle complex business logic.</p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <h3>☁️ Cloud Native</h3>
+        <p>Leveraging modern cloud infrastructure to deploy highly available and scalable applications with automated CI/CD pipelines.</p>
+      </td>
+      <td width="50%" align="center">
+        <h3>🔍 Problem Solving</h3>
+        <p>Turning complex challenges into elegant solutions through analytical thinking and creative problem-solving approaches.</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 💭 My Philosophy
+
+```javascript
+function developmentPhilosophy() {
+  return {
+    code: ["Clean", "Maintainable", "Tested", "Documented"],
+    approach: ["User-Centric", "Performance-Driven", "Security-Focused"],
+    principles: {
+      SOLID: true,
+      DRY: true,
+      KISS: true,
+      learnEveryday: true
+    }
+  };
+}
+```
+
+## 📬 Let's Connect & Create Something Amazing
+
+<div align="center">
+  <p>I'm always open to interesting conversations, collaboration opportunities, or just geeking out about the latest tech.</p>
+  <p>Drop me a line at <a href="mailto:theaniketgiri@gmail.com">theaniketgiri@gmail.com</a> or connect with me on social media!</p>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20&height=150&section=footer&animation=twinkling" width="100%"/>
+</div>
