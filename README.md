@@ -8,7 +8,7 @@
 I craft digital experiences that blend creativity with functionality. My code isn't just functional—it tells a story, solves problems, and creates memorable user experiences. When I'm not immersed in code, you'll find me exploring new technologies, contributing to open-source, or brainstorming the next big idea.
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=500&lines=Building+the+web+of+tomorrow%2C+today;Turning+coffee+into+code+since+2015;Crafting+digital+experiences+with+passion;Where+creativity+meets+functionality" width="70%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=500&lines=Building+the+web+of+future+world%2C;Turning+coffee+into+code+since+2022;crafting+digital+experiences+with+passion;Where+creativity+meets+functionality" width="70%" />
 </div>
 
 ## 🚀 Current Focus
@@ -198,7 +198,7 @@ function developmentPhilosophy() {
 
 <div align="center">
   <p>I'm always open to interesting conversations, collaboration opportunities, or just geeking out about the latest tech.</p>
-  <p>Drop me a line at <a href="mailto:theaniketgiri@gmail.com">theaniketgiri@gmail.com</a> or connect with me on social media!</p>
+  <p>Drop me a line at <a href="mailto:dev.shreyansh369@gmail.com">dev.shreyansh369@gmail.com</a> or connect with me on social media!</p>
 </div>
 
 <div align="center">
