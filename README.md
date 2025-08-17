@@ -7,25 +7,10 @@
   <!-- Gradient Name Badge -->
   <img src="https://img.shields.io/badge/Shreyansh%20Tripathi-8A2BE2%20→%20FF00FF%20→%2000FFFF?style=for-the-badge&logo=github&logoColor=white" height="40" />
 
-  <!-- Extra Tech Stack Badges -->
-  <br><br>
-  <img src="https://img.shields.io/badge/Java-F77F00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-
 </div>
-
-
----
 
 <!-- 🌟 Social Hub 🌟 -->
 <div align="center">
-
-  <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=🚀+Let's+Connect+and+Build+Something+Awesome!;🤝+Open+to+Collaborations+and+Exciting+Opportunities;💼+Java+Full+Stack+Developer+%7C+Aspiring+SDE" alt="Typing Animation" />
-
-  <br><br>
 
   <!-- Social Badges -->
   <a href="https://www.linkedin.com/in/shreyansh369" target="_blank">
