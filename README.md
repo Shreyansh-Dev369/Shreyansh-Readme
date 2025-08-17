@@ -44,11 +44,6 @@
       <td align="center" width="120" style="padding: 15px;">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" />
         <br><b>React Apps</b>
-      </td>
-      <td align="center" width="120" style="padding: 15px;">
-        <img src="https://skillicons.dev/icons?i=spring" width="65" height="65" />
-        <br><b>Spring Boot</b>
-      </td>
       <td align="center" width="120" style="padding: 15px;">
         <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="65" height="65" />
         <br><b>Kubernetes</b>
