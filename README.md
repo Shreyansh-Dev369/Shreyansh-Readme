@@ -1,36 +1,53 @@
-
 <!-- 🌟 Animated Name Header 🌟 -->
 <div align="center">
-  
-<!-- Typing animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=F77EF7&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I'm+Shreyansh+Tripathi;💻+Java+Full+Stack+Developer;🚀+Aspiring+SDE+%7C+Open+Source+Contributor" alt="Typing SVG" />
 
-<!-- Gradient name -->
-<img src="https://img.shields.io/badge/Shreyansh%20Tripathi-gradient?logo=github&logoColor=white&labelColor=ff00ff&color=00ffff&style=for-the-badge" height="40" />
+  <!-- Typing animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=👋+Hey%2C+I'm+Shreyansh+Tripathi;💻+Java+Full+Stack+Developer;🚀+Aspiring+SDE+%7C+Open+Source+Contributor;🌐+Tech+Explorer+%7C+Problem+Solver" alt="Typing SVG" />
+
+  <!-- Gradient Name Badge -->
+  <img src="https://img.shields.io/badge/Shreyansh%20Tripathi-8A2BE2%20→%20FF00FF%20→%2000FFFF?style=for-the-badge&logo=github&logoColor=white" height="40" />
+
+  <!-- Extra Tech Stack Badges -->
+  <br><br>
+  <img src="https://img.shields.io/badge/Java-F77F00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
 </div>
+
 
 ---
 
 <!-- 🌟 Social Hub 🌟 -->
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F77EF7&center=true&vCenter=true&width=650&lines=🚀+Let's+Connect+and+Build+Something+Awesome!;🤝+Open+to+Collaborations+and+Opportunities;💼+Java+Full+Stack+Developer+%7C+SDE+Aspiring" />
+  <!-- Typing Animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=🚀+Let's+Connect+and+Build+Something+Awesome!;🤝+Open+to+Collaborations+and+Exciting+Opportunities;💼+Java+Full+Stack+Developer+%7C+Aspiring+SDE" alt="Typing Animation" />
 
-<br><br>
+  <br><br>
 
-<a href="https://www.linkedin.com/in/shreyansh369" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blueviolet?style=for-the-badge&logo=linkedin&logoColor=white" height="40" />
-</a>
-&nbsp;
-<a href="https://github.com/Shreyansh-Dev369" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white" height="40" />
-</a>
+  <!-- Social Badges -->
+  <a href="https://www.linkedin.com/in/shreyansh369" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Shreyansh-Dev369" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" height="40" />
+  </a>
+  &nbsp;
+  <a href="mailto:dev.shreyansh369@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" />
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="40" />
+  </a>
 
-<br><br>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%" />
+  <br><br>
 
 </div>
+
 
 ---
 
