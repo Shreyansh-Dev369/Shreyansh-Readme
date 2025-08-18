@@ -118,9 +118,6 @@ function developmentPhilosophy() {
 📬 Let's Connect & Create Something Amazing
 <div align="center">
 💡 "Collaboration is where ideas turn into impact."
-📧 Email: dev.shreyansh369@gmail.com
-🔗 LinkedIn: linkedin.com/in/shreyansh369
-💻 GitHub: Shreyansh-Dev369
 
-<br> <img src="https://img.shields.io/badge/Let's%20Collaborate-25D366?style=for-the-badge&logo=Handshake&logoColor=white" /> <img src="https://img.shields.io/badge/Tech%20Talks-007ACC?style=for-the-badge&logo=MicrosoftTeams&logoColor=white" /> <img src="https://img.shields.io/badge/Open%20Source%20Lover-181717?style=for-the-badge&logo=github&logoColor=white" /> </div>
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:FFD93D,100:6BCB77&height=150&section=footer&animation=twinkling" width="100%"/> </div> 
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:FFD93D,100:6BCB77&height=150&section=footer&animation=twinkling" width="100%"/> </div> 
