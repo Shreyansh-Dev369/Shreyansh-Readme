@@ -2,12 +2,17 @@
 <div align="center">
 
   <!-- Typing animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=👋+Hey%2C+I'm+Shreyansh+Tripathi;💻+Java+Full+Stack+Developer;🚀+Aspiring+SDE+%7C+Open+Source+Contributor;🌐+Tech+Explorer+%7C+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=FF4DFF&center=true&vCenter=true&width=900&lines=👋+Hey%2C+I'm+Shreyansh+Tripathi;💻+Java+Full+Stack+Developer;🚀+Aspiring+SDE+%7C+Open+Source+Contributor;🌐+Tech+Explorer+%7C+Problem+Solver" alt="Typing SVG" />
 
-  <!-- Gradient Name Badge -->
-  <img src="https://img.shields.io/badge/Shreyansh%20Tripathi-8A2BE2%20→%20FF00FF%20→%2000FFFF?style=for-the-badge&logo=github&logoColor=white" height="40" />
+  <!-- Sleek Gradient Badge -->
+  <a href="https://github.com/Shreyansh-Dev369" target="_blank">
+    <img src="https://img.shields.io/badge/Shreyansh%20Tripathi-%23FF4DFF%20→%20%2300E5FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=8A2BE2&link=https://github.com/Shreyansh-Dev369" height="42" style="border-radius:12px;" />
+  </a>
 
 </div>
+
+
+
 
 <!-- 🌟 Social Hub 🌟 -->
 <div align="center">
