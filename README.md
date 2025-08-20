@@ -130,7 +130,7 @@ function developmentPhilosophy() {
 
 
 
-📬 Let's Connect & Create Something Amazing
+
 <div align="center">
 💡 "Collaboration is where ideas turn into impact."
 
